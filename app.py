@@ -2,6 +2,7 @@ import streamlit as st
 import tensorflow as tf
 import numpy as np
 from PIL import Image
+import cv2
 
 
 st.set_option('deprecation.showfileUploaderEncoding', False)
